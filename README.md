@@ -432,4 +432,7 @@ For any questions or support, please open an issue in the repository.
 
 ---
 
-**Happy Coding!** 🚀
+**Happy Coding!**
+<img width="1266" height="680" alt="image" src="https://github.com/user-attachments/assets/1d8a44fe-3bd6-4598-b302-a5db233a04c8" />
+
+<img width="1266" height="680" alt="image" src="https://github.com/user-attachments/assets/fdd253f7-5fe8-4d36-bb71-075ceb66b645" />
